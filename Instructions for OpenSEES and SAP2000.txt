@@ -1,0 +1,25 @@
+This has TWO Parts
+
+Part 1
+- How to fork and fetch
+- Notepad++             (install)
+- Spyder                (quick revision)
+- How to create new Env (check Part 2)
+- Install OpenSEESpy    (check Part 2)
+- VS CODE               (install)
+- Continue Exercises    (hands-on)
+- Submit on Sunday 16th (reminder)
+
+Part 2
+Go to Anaconda Prompt in Start and type/run the following:
+	conda create -n OPENSEES python=3.9 anaconda
+	conda activate OPENSEES
+	pip install openseespy
+	pip install tensorflow==2.10
+	pip install comtypes
+	spyder
+Now you can code in Spyder using the new Environment.
+To be able to use this environment in the future:
+	Go to Anaconda Prompt
+	conda activate OPENSEES
+	spyder
