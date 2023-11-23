@@ -1,0 +1,19 @@
+
+
+ SAP2000 v22.2.0 Ultimate 64-bit (Analysis Build 9827/64)                       
+ File: C:\Users\ahmed.torky\Desktop\TorkyWork\Runs_GA_Sym\Best.OUT              
+                                                                     
+                                                                       
+
+ D I S P L A C E M E N T   D E G R E E S   O F   F R E E D O M
+
+         (A) = Active DOF, equilibrium equation
+         (-) = Restrained DOF, reaction computed
+         (+) = Constrained DOF
+         (>) = External substructure DOF
+         ( ) = Null DOF
+
+  JOINTS              UX  UY  UZ  RX  RY  RZ
+       1               -   -   -   A   A   A
+       3 TO      12    A   A   A   A   A   A
+      13 TO      14    -   A   A   A   A   A

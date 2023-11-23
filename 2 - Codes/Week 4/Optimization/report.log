@@ -1,0 +1,36 @@
+2023-11-09 13:49:21,301 - pyswarms.single.global_best - INFO - Optimize for 200 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9}
+2023-11-09 13:49:21,338 - comtypes.client._generate - INFO - Could not import comtypes.gen._AADDD124_B054_4C6E_A088_711A06245B57_0_1_0: No module named 'comtypes.gen._AADDD124_B054_4C6E_A088_711A06245B57_0_1_0'
+2023-11-09 13:49:21,338 - comtypes.client._generate - INFO - # Generating comtypes.gen._AADDD124_B054_4C6E_A088_711A06245B57_0_1_0
+2023-11-09 13:49:21,576 - comtypes.client._generate - INFO - Could not import comtypes.gen._00020430_0000_0000_C000_000000000046_0_2_0: No module named 'comtypes.gen._00020430_0000_0000_C000_000000000046_0_2_0'
+2023-11-09 13:49:21,576 - comtypes.client._generate - INFO - # Generating comtypes.gen._00020430_0000_0000_C000_000000000046_0_2_0
+2023-11-09 13:49:21,594 - comtypes.client._generate - INFO - Could not import comtypes.gen.stdole: No module named 'comtypes.gen.stdole'
+2023-11-09 13:49:21,594 - comtypes.client._generate - INFO - # Generating comtypes.gen.stdole
+2023-11-09 13:49:21,594 - comtypes.client._generate - INFO - Could not import comtypes.gen._BED7F4EA_1A96_11D2_8F08_00A0C9A6186D_0_2_4: No module named 'comtypes.gen._BED7F4EA_1A96_11D2_8F08_00A0C9A6186D_0_2_4'
+2023-11-09 13:49:21,594 - comtypes.client._generate - INFO - # Generating comtypes.gen._BED7F4EA_1A96_11D2_8F08_00A0C9A6186D_0_2_4
+2023-11-09 13:49:22,069 - comtypes.client._generate - INFO - Could not import comtypes.gen.mscorlib: No module named 'comtypes.gen.mscorlib'
+2023-11-09 13:49:22,069 - comtypes.client._generate - INFO - # Generating comtypes.gen.mscorlib
+2023-11-09 13:49:22,368 - comtypes.client._generate - INFO - Could not import comtypes.gen.SAP2000v1: No module named 'comtypes.gen.SAP2000v1'
+2023-11-09 13:49:22,369 - comtypes.client._generate - INFO - # Generating comtypes.gen.SAP2000v1
+2023-11-09 14:17:05,209 - pyswarms.single.global_best - INFO - Optimize for 100 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9}
+2023-11-23 16:29:56,441 - pyswarms.single.global_best - INFO - Optimize for 2 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9}
+2023-11-23 16:29:56,570 - comtypes.client._generate - INFO - Could not import comtypes.gen._AADDD124_B054_4C6E_A088_711A06245B57_0_1_0: No module named 'comtypes.gen._AADDD124_B054_4C6E_A088_711A06245B57_0_1_0'
+2023-11-23 16:29:56,571 - comtypes.client._generate - INFO - # Generating comtypes.gen._AADDD124_B054_4C6E_A088_711A06245B57_0_1_0
+2023-11-23 16:29:56,847 - comtypes.client._generate - INFO - Could not import comtypes.gen._00020430_0000_0000_C000_000000000046_0_2_0: No module named 'comtypes.gen._00020430_0000_0000_C000_000000000046_0_2_0'
+2023-11-23 16:29:56,848 - comtypes.client._generate - INFO - # Generating comtypes.gen._00020430_0000_0000_C000_000000000046_0_2_0
+2023-11-23 16:29:56,866 - comtypes.client._generate - INFO - Could not import comtypes.gen.stdole: No module named 'comtypes.gen.stdole'
+2023-11-23 16:29:56,867 - comtypes.client._generate - INFO - # Generating comtypes.gen.stdole
+2023-11-23 16:29:56,870 - comtypes.client._generate - INFO - Could not import comtypes.gen._BED7F4EA_1A96_11D2_8F08_00A0C9A6186D_0_2_4: No module named 'comtypes.gen._BED7F4EA_1A96_11D2_8F08_00A0C9A6186D_0_2_4'
+2023-11-23 16:29:56,871 - comtypes.client._generate - INFO - # Generating comtypes.gen._BED7F4EA_1A96_11D2_8F08_00A0C9A6186D_0_2_4
+2023-11-23 16:29:57,498 - comtypes.client._generate - INFO - Could not import comtypes.gen.mscorlib: No module named 'comtypes.gen.mscorlib'
+2023-11-23 16:29:57,499 - comtypes.client._generate - INFO - # Generating comtypes.gen.mscorlib
+2023-11-23 16:29:57,831 - comtypes.client._generate - INFO - Could not import comtypes.gen.SAP2000v1: No module named 'comtypes.gen.SAP2000v1'
+2023-11-23 16:29:57,832 - comtypes.client._generate - INFO - # Generating comtypes.gen.SAP2000v1
+2023-11-23 16:33:23,326 - pyswarms.single.global_best - INFO - Optimization finished | best cost: 161.43634824000003, best pos: [0.03611003 0.00602088 0.01951807 0.03574078 0.02464824 0.02436071
+ 0.00309717 0.00858784 0.01431478 0.01024011 0.00961373 0.0431941
+ 0.02909903 0.0372874  0.03069242 0.01834397 0.04708854 0.04980345
+ 0.00436783 0.02788729 0.02700067]
+2023-11-23 17:20:02,332 - pyswarms.single.global_best - INFO - Optimize for 2 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9}
+2023-11-23 17:23:31,450 - pyswarms.single.global_best - INFO - Optimization finished | best cost: 124.82735639999997, best pos: [0.01288441 0.00368    0.03488503 0.02680053 0.00763014 0.00698254
+ 0.04662811 0.01233458 0.04025783 0.0230056  0.00834765 0.01264384
+ 0.01127242 0.01103542 0.01578253 0.02040993 0.01221237 0.02639835
+ 0.00503845 0.04379437 0.01237999]
