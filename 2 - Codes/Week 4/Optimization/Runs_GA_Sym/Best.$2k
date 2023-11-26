@@ -1,4 +1,4 @@
-File C:\Users\ahmed.torky\Desktop\TorkyWork\Runs_GA_Sym\Best.$2k was saved on m/d/yy at h:mm:ss
+File D:\OneDrive - The British University in Egypt\Desktop\Training Course - AI in Str - November 2023\2 - Codes\Week 4\Optimization\Symmetrical\Origin.$2k was saved on m/d/yy at h:mm:ss
  
 TABLE:  "ACTIVE DEGREES OF FREEDOM"
    UX=Yes   UY=Yes   UZ=Yes   RX=Yes   RY=Yes   RZ=Yes
@@ -7,10 +7,7 @@ TABLE:  "ANALYSIS OPTIONS"
    Solver=Advanced   SolverProc=Auto   Force32Bit=No   StiffCase=None   GeomMod=None   HingeOpt="In Elements"   NumAThreads=0   MaxFileSize=0   UseMMFiles="Program Determined"   AllowDiff=No
  
 TABLE:  "AUTO WAVE 3 - WAVE CHARACTERISTICS - GENERAL"
-   WaveChar=Default   WaveType="From Theory"   KinFactor=1   SWaterDepth=45   WaveHeight=18   WavePeriod=12   WaveTheory=Linear
- 
-TABLE:  "CASE - MODAL 1 - GENERAL"
-   Case=MODAL   ModeType=Eigen   MaxNumModes=12   MinNumModes=1   EigenShift=0   EigenCutoff=0   EigenTol=1E-09   AutoShift=Yes
+   WaveChar=Default   WaveType="From Theory"   KinFactor=1   SWaterDepth=1800   WaveHeight=720   WavePeriod=12   WaveTheory=Linear
  
 TABLE:  "CASE - STATIC 1 - LOAD ASSIGNMENTS"
    Case=DEAD   LoadType="Load pattern"   LoadName=DEAD   LoadSF=1
@@ -139,28 +136,51 @@ TABLE:  "FRAME OUTPUT STATION ASSIGNMENTS"
    Frame=37   StationType=MaxStaSpcg   MaxStaSpcg=0.5   AddAtElmInt=Yes   AddAtPtLoad=Yes
    Frame=38   StationType=MaxStaSpcg   MaxStaSpcg=0.5   AddAtElmInt=Yes   AddAtPtLoad=Yes
  
+TABLE:  "FRAME RELEASE ASSIGNMENTS 1 - GENERAL"
+   Frame=3   PI=No   V2I=No   V3I=No   TI=Yes   M2I=Yes   M3I=Yes   PJ=No   V2J=No   V3J=No   TJ=No   M2J=Yes   M3J=Yes
+   Frame=4   PI=No   V2I=No   V3I=No   TI=Yes   M2I=Yes   M3I=Yes   PJ=No   V2J=No   V3J=No   TJ=No   M2J=Yes   M3J=Yes
+   Frame=5   PI=No   V2I=No   V3I=No   TI=Yes   M2I=Yes   M3I=Yes   PJ=No   V2J=No   V3J=No   TJ=No   M2J=Yes   M3J=Yes
+   Frame=6   PI=No   V2I=No   V3I=No   TI=Yes   M2I=Yes   M3I=Yes   PJ=No   V2J=No   V3J=No   TJ=No   M2J=Yes   M3J=Yes
+   Frame=7   PI=No   V2I=No   V3I=No   TI=Yes   M2I=Yes   M3I=Yes   PJ=No   V2J=No   V3J=No   TJ=No   M2J=Yes   M3J=Yes
+   Frame=8   PI=No   V2I=No   V3I=No   TI=Yes   M2I=Yes   M3I=Yes   PJ=No   V2J=No   V3J=No   TJ=No   M2J=Yes   M3J=Yes
+   Frame=14   PI=No   V2I=No   V3I=No   TI=Yes   M2I=Yes   M3I=Yes   PJ=No   V2J=No   V3J=No   TJ=No   M2J=Yes   M3J=Yes
+   Frame=15   PI=No   V2I=No   V3I=No   TI=Yes   M2I=Yes   M3I=Yes   PJ=No   V2J=No   V3J=No   TJ=No   M2J=Yes   M3J=Yes
+   Frame=16   PI=No   V2I=No   V3I=No   TI=Yes   M2I=Yes   M3I=Yes   PJ=No   V2J=No   V3J=No   TJ=No   M2J=Yes   M3J=Yes
+   Frame=17   PI=No   V2I=No   V3I=No   TI=Yes   M2I=Yes   M3I=Yes   PJ=No   V2J=No   V3J=No   TJ=No   M2J=Yes   M3J=Yes
+   Frame=23   PI=No   V2I=No   V3I=No   TI=Yes   M2I=Yes   M3I=Yes   PJ=No   V2J=No   V3J=No   TJ=No   M2J=Yes   M3J=Yes
+   Frame=24   PI=No   V2I=No   V3I=No   TI=Yes   M2I=Yes   M3I=Yes   PJ=No   V2J=No   V3J=No   TJ=No   M2J=Yes   M3J=Yes
+   Frame=25   PI=No   V2I=No   V3I=No   TI=Yes   M2I=Yes   M3I=Yes   PJ=No   V2J=No   V3J=No   TJ=No   M2J=Yes   M3J=Yes
+   Frame=26   PI=No   V2I=No   V3I=No   TI=Yes   M2I=Yes   M3I=Yes   PJ=No   V2J=No   V3J=No   TJ=No   M2J=Yes   M3J=Yes
+   Frame=27   PI=No   V2I=No   V3I=No   TI=Yes   M2I=Yes   M3I=Yes   PJ=No   V2J=No   V3J=No   TJ=No   M2J=Yes   M3J=Yes
+   Frame=28   PI=No   V2I=No   V3I=No   TI=Yes   M2I=Yes   M3I=Yes   PJ=No   V2J=No   V3J=No   TJ=No   M2J=Yes   M3J=Yes
+   Frame=34   PI=No   V2I=No   V3I=No   TI=Yes   M2I=Yes   M3I=Yes   PJ=No   V2J=No   V3J=No   TJ=No   M2J=Yes   M3J=Yes
+   Frame=35   PI=No   V2I=No   V3I=No   TI=Yes   M2I=Yes   M3I=Yes   PJ=No   V2J=No   V3J=No   TJ=No   M2J=Yes   M3J=Yes
+   Frame=36   PI=No   V2I=No   V3I=No   TI=Yes   M2I=Yes   M3I=Yes   PJ=No   V2J=No   V3J=No   TJ=No   M2J=Yes   M3J=Yes
+   Frame=37   PI=No   V2I=No   V3I=No   TI=Yes   M2I=Yes   M3I=Yes   PJ=No   V2J=No   V3J=No   TJ=No   M2J=Yes   M3J=Yes
+   Frame=38   PI=No   V2I=No   V3I=No   TI=Yes   M2I=Yes   M3I=Yes   PJ=No   V2J=No   V3J=No   TJ=No   M2J=Yes   M3J=Yes
+ 
 TABLE:  "FRAME SECTION ASSIGNMENTS"
-   Frame=3   AutoSelect=N.A.   AnalSect=TUBO160X80X5   MatProp=Default
-   Frame=4   AutoSelect=N.A.   AnalSect=TUBO220X220X17.5   MatProp=Default
-   Frame=5   AutoSelect=N.A.   AnalSect=TUBO120X84X16   MatProp=Default
-   Frame=6   AutoSelect=N.A.   AnalSect=TUBO90X90X17.5   MatProp=Default
-   Frame=7   AutoSelect=N.A.   AnalSect=TUBO90X90X17.5   MatProp=Default
-   Frame=8   AutoSelect=N.A.   AnalSect=TUBO100X70X10   MatProp=Default
-   Frame=14   AutoSelect=N.A.   AnalSect=TUBO160X160X12.5   MatProp=Default
-   Frame=15   AutoSelect=N.A.   AnalSect=TUBO180X126X17.5   MatProp=Default
-   Frame=16   AutoSelect=N.A.   AnalSect=TUBO200X140X14.2   MatProp=Default
-   Frame=17   AutoSelect=N.A.   AnalSect=TUBO380X190X14.2   MatProp=Default
+   Frame=3   AutoSelect=N.A.   AnalSect=TUBO260X260X35   MatProp=Default
+   Frame=4   AutoSelect=N.A.   AnalSect=TUBO220X110X20   MatProp=Default
+   Frame=5   AutoSelect=N.A.   AnalSect=TUBO120X60X10   MatProp=Default
+   Frame=6   AutoSelect=N.A.   AnalSect=TUBO260X130X22.2   MatProp=Default
+   Frame=7   AutoSelect=N.A.   AnalSect=TUBO180X180X35   MatProp=Default
+   Frame=8   AutoSelect=N.A.   AnalSect=TUBO280X280X17.5   MatProp=Default
+   Frame=14   AutoSelect=N.A.   AnalSect=TUBO220X154X28   MatProp=Default
+   Frame=15   AutoSelect=N.A.   AnalSect=TUBO160X112X8   MatProp=Default
+   Frame=16   AutoSelect=N.A.   AnalSect=TUBO280X280X14.2   MatProp=Default
+   Frame=17   AutoSelect=N.A.   AnalSect=TUBO200X200X28   MatProp=Default
    Frame=23   AutoSelect=N.A.   AnalSect=TUBO140X98X12.5   MatProp=Default
-   Frame=24   AutoSelect=N.A.   AnalSect=TUBO220X154X28   MatProp=Default
-   Frame=25   AutoSelect=N.A.   AnalSect=TUBO180X180X10   MatProp=Default
-   Frame=26   AutoSelect=N.A.   AnalSect=TUBO180X126X7.1   MatProp=Default
-   Frame=27   AutoSelect=N.A.   AnalSect=TUBO200X140X22.2   MatProp=Default
-   Frame=28   AutoSelect=N.A.   AnalSect=TUBO280X196X14.2   MatProp=Default
-   Frame=34   AutoSelect=N.A.   AnalSect=TUBO140X98X7.1   MatProp=Default
-   Frame=35   AutoSelect=N.A.   AnalSect=TUBO320X224X20   MatProp=Default
-   Frame=36   AutoSelect=N.A.   AnalSect=TUBO220X110X14.2   MatProp=Default
-   Frame=37   AutoSelect=N.A.   AnalSect=TUBO300X300X16   MatProp=Default
-   Frame=38   AutoSelect=N.A.   AnalSect=TUBO300X300X35   MatProp=Default
+   Frame=24   AutoSelect=N.A.   AnalSect=TUBO300X210X22.2   MatProp=Default
+   Frame=25   AutoSelect=N.A.   AnalSect=TUBO320X320X30   MatProp=Default
+   Frame=26   AutoSelect=N.A.   AnalSect=TUBO160X160X22.2   MatProp=Default
+   Frame=27   AutoSelect=N.A.   AnalSect=TUBO100X70X5.9   MatProp=Default
+   Frame=28   AutoSelect=N.A.   AnalSect=TUBO60X42X4   MatProp=Default
+   Frame=34   AutoSelect=N.A.   AnalSect=TUBO320X224X28   MatProp=Default
+   Frame=35   AutoSelect=N.A.   AnalSect=TUBO300X300X22.2   MatProp=Default
+   Frame=36   AutoSelect=N.A.   AnalSect=TUBO240X240X30   MatProp=Default
+   Frame=37   AutoSelect=N.A.   AnalSect=TUBO320X224X12.5   MatProp=Default
+   Frame=38   AutoSelect=N.A.   AnalSect=TUBO360X252X35   MatProp=Default
  
 TABLE:  "FRAME SECTION PROPERTIES 01 - GENERAL"
    SectionName=TUBO100X100X10   Material=A992Fy50   Shape=Box/Tube   t3=0.1   t2=0.1   tf=0.01   tw=0.01   Area=0.0036   TorsConst=7.29E-06   I33=4.92E-06   I22=4.92E-06   I23=0   AS2=0.002   AS3=0.002   S33=9.84E-05   S22=9.84E-05 _
@@ -2502,12 +2522,11 @@ TABLE:  "JOINT PATTERN DEFINITIONS"
  
 TABLE:  "JOINT RESTRAINT ASSIGNMENTS"
    Joint=1   U1=Yes   U2=Yes   U3=Yes   R1=No   R2=No   R3=No
-   Joint=13   U1=Yes   U2=No   U3=No   R1=No   R2=No   R3=No
-   Joint=14   U1=Yes   U2=No   U3=No   R1=No   R2=No   R3=No
+   Joint=13   U1=Yes   U2=Yes   U3=No   R1=No   R2=No   R3=No
+   Joint=14   U1=Yes   U2=Yes   U3=No   R1=No   R2=No   R3=No
  
 TABLE:  "LOAD CASE DEFINITIONS"
    Case=DEAD   Type=LinStatic   InitialCond=Zero   DesTypeOpt="Prog Det"   DesignType=Dead   DesActOpt="Prog Det"   DesignAct=Non-Composite   AutoType=None   RunCase=Yes   GUID=14af745d-5bb0-4f35-8b3f-36c582a8bf96
-   Case=MODAL   Type=LinModal   InitialCond=Zero   DesTypeOpt="Prog Det"   DesignType=Other   DesActOpt="Prog Det"   DesignAct=Other   AutoType=None   RunCase=No   GUID=89a6a0ee-ec2a-4b74-aeda-6b03b44e050c
    Case=Live   Type=LinStatic   InitialCond=Zero   DesTypeOpt="Prog Det"   DesignType=Live   DesActOpt="Prog Det"   DesignAct="Short-Term Composite"   AutoType=None   RunCase=Yes   GUID=d0699801-3970-4c33-96cb-468fdd1cf4f6
  
 TABLE:  "LOAD PATTERN DEFINITIONS"

@@ -160,27 +160,27 @@ TABLE:  "FRAME RELEASE ASSIGNMENTS 1 - GENERAL"
    Frame=38   PI=No   V2I=No   V3I=No   TI=Yes   M2I=Yes   M3I=Yes   PJ=No   V2J=No   V3J=No   TJ=No   M2J=Yes   M3J=Yes
  
 TABLE:  "FRAME SECTION ASSIGNMENTS"
-   Frame=3   AutoSelect=N.A.   AnalSect=TUBO320X224X12.5   MatProp=Default
-   Frame=4   AutoSelect=N.A.   AnalSect=TUBO120X84X10   MatProp=Default
-   Frame=5   AutoSelect=N.A.   AnalSect=TUBO340X340X28   MatProp=Default
-   Frame=6   AutoSelect=N.A.   AnalSect=TUBO300X210X30   MatProp=Default
-   Frame=7   AutoSelect=N.A.   AnalSect=TUBO160X112X16   MatProp=Default
-   Frame=8   AutoSelect=N.A.   AnalSect=TUBO180X126X12.5   MatProp=Default
-   Frame=14   AutoSelect=N.A.   AnalSect=TUBO340X340X40   MatProp=Default
-   Frame=15   AutoSelect=N.A.   AnalSect=TUBO280X140X16   MatProp=Default
-   Frame=16   AutoSelect=N.A.   AnalSect=TUBO380X266X35   MatProp=Default
-   Frame=17   AutoSelect=N.A.   AnalSect=TUBO200X200X35   MatProp=Default
-   Frame=23   AutoSelect=N.A.   AnalSect=TUBO180X180X12.5   MatProp=Default
-   Frame=24   AutoSelect=N.A.   AnalSect=TUBO280X196X14.2   MatProp=Default
-   Frame=25   AutoSelect=N.A.   AnalSect=TUBO280X196X12.5   MatProp=Default
-   Frame=26   AutoSelect=N.A.   AnalSect=TUBO280X140X14.2   MatProp=Default
-   Frame=27   AutoSelect=N.A.   AnalSect=TUBO200X200X22.2   MatProp=Default
-   Frame=28   AutoSelect=N.A.   AnalSect=TUBO300X210X22.2   MatProp=Default
-   Frame=34   AutoSelect=N.A.   AnalSect=TUBO160X160X22.2   MatProp=Default
-   Frame=35   AutoSelect=N.A.   AnalSect=TUBO340X238X25   MatProp=Default
-   Frame=36   AutoSelect=N.A.   AnalSect=TUBO160X112X10   MatProp=Default
-   Frame=37   AutoSelect=N.A.   AnalSect=TUBO400X400X30   MatProp=Default
-   Frame=38   AutoSelect=N.A.   AnalSect=TUBO280X140X16   MatProp=Default
+   Frame=3   AutoSelect=N.A.   AnalSect=TUBO320X160X10   MatProp=Default
+   Frame=4   AutoSelect=N.A.   AnalSect=TUBO360X252X14.2   MatProp=Default
+   Frame=5   AutoSelect=N.A.   AnalSect=TUBO180X126X10   MatProp=Default
+   Frame=6   AutoSelect=N.A.   AnalSect=TUBO90X90X12.5   MatProp=Default
+   Frame=7   AutoSelect=N.A.   AnalSect=TUBO200X100X8   MatProp=Default
+   Frame=8   AutoSelect=N.A.   AnalSect=TUBO300X300X40   MatProp=Default
+   Frame=14   AutoSelect=N.A.   AnalSect=TUBO180X90X17.5   MatProp=Default
+   Frame=15   AutoSelect=N.A.   AnalSect=TUBO200X200X30   MatProp=Default
+   Frame=16   AutoSelect=N.A.   AnalSect=TUBO260X260X22.2   MatProp=Default
+   Frame=17   AutoSelect=N.A.   AnalSect=TUBO240X168X12.5   MatProp=Default
+   Frame=23   AutoSelect=N.A.   AnalSect=TUBO140X70X8   MatProp=Default
+   Frame=24   AutoSelect=N.A.   AnalSect=TUBO180X126X7.1   MatProp=Default
+   Frame=25   AutoSelect=N.A.   AnalSect=TUBO240X240X22.2   MatProp=Default
+   Frame=26   AutoSelect=N.A.   AnalSect=TUBO280X280X28   MatProp=Default
+   Frame=27   AutoSelect=N.A.   AnalSect=TUBO180X126X17.5   MatProp=Default
+   Frame=28   AutoSelect=N.A.   AnalSect=TUBO220X154X25   MatProp=Default
+   Frame=34   AutoSelect=N.A.   AnalSect=TUBO220X154X28   MatProp=Default
+   Frame=35   AutoSelect=N.A.   AnalSect=TUBO240X168X28   MatProp=Default
+   Frame=36   AutoSelect=N.A.   AnalSect=TUBO260X182X35   MatProp=Default
+   Frame=37   AutoSelect=N.A.   AnalSect=TUBO300X300X20   MatProp=Default
+   Frame=38   AutoSelect=N.A.   AnalSect=TUBO200X200X28   MatProp=Default
  
 TABLE:  "FRAME SECTION PROPERTIES 01 - GENERAL"
    SectionName=TUBO100X100X10   Material=A992Fy50   Shape=Box/Tube   t3=0.1   t2=0.1   tf=0.01   tw=0.01   Area=0.0036   TorsConst=7.29E-06   I33=4.92E-06   I22=4.92E-06   I23=0   AS2=0.002   AS3=0.002   S33=9.84E-05   S22=9.84E-05 _

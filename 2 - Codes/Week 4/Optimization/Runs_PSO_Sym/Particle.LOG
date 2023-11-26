@@ -6,7 +6,7 @@
 
 
 
- B E G I N   A N A L Y S I S                                2023/11/23  17:23:28
+ B E G I N   A N A L Y S I S                                2023/11/24  21:02:13
 
 
  RUNNING ANALYSIS WITHIN THE GUI PROCESS
@@ -19,24 +19,24 @@
  NUMBER OF ACCELERATION LOADS              =           9
  NUMBER OF LOAD CASES                      =           2
 
- ADDRESSABLE PHYSICAL MEMORY (RAM)         =       7.886 GB
+ ADDRESSABLE PHYSICAL MEMORY (RAM)         =      15.719 GB
 
  PARALLELIZATION OF ANALYSIS OPERATIONS:
   (Env. variable SAPFIRE_NUM_THREADS not set)
- NUMBER OF THREADS: STATE (AUTOMATIC)      =           4
- NUMBER OF THREADS: STIFFNESS (AUTOMATIC)  =           4
- NUMBER OF THREADS: EVENT (AUTOMATIC)      =           4
- NUMBER OF THREADS: MOVE (AUTOMATIC)       =           4
- NUMBER OF THREADS: RESPONSE (AUTOMATIC)   =           4
- NUMBER OF THREADS: SOLVE (AUTOMATIC)      =           4
- NUMBER OF THREADS: FORM (AUTOMATIC)       =           4
+ NUMBER OF THREADS: STATE (AUTOMATIC)      =           6
+ NUMBER OF THREADS: STIFFNESS (AUTOMATIC)  =           6
+ NUMBER OF THREADS: EVENT (AUTOMATIC)      =           6
+ NUMBER OF THREADS: MOVE (AUTOMATIC)       =           6
+ NUMBER OF THREADS: RESPONSE (AUTOMATIC)   =           6
+ NUMBER OF THREADS: SOLVE (AUTOMATIC)      =           6
+ NUMBER OF THREADS: FORM (AUTOMATIC)       =           6
 
 
- E L E M E N T   F O R M A T I O N                                      17:23:28
+ E L E M E N T   F O R M A T I O N                                      21:02:13
 
 
 
- L I N E A R   E Q U A T I O N   S O L U T I O N                        17:23:28
+ L I N E A R   E Q U A T I O N   S O L U T I O N                        21:02:13
 
  FORMING STIFFNESS AT ZERO (UNSTRESSED) INITIAL CONDITIONS
 
@@ -69,7 +69,7 @@
  ---------------------------------
 
 
- L I N E A R   S T A T I C   C A S E S                                  17:23:28
+ L I N E A R   S T A T I C   C A S E S                                  21:02:13
 
  USING STIFFNESS AT ZERO (UNSTRESSED) INITIAL CONDITIONS
 
@@ -82,4 +82,4 @@
  CASE: LIVE
 
 
- A N A L Y S I S   C O M P L E T E                          2023/11/23  17:23:28
+ A N A L Y S I S   C O M P L E T E                          2023/11/24  21:02:13
